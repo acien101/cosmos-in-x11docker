@@ -32,7 +32,7 @@ GEM
     pry-doc (0.13.4)
       pry (~> 0.11)
       yard (~> 0.9.11)
-    puma (3.11.4)
+    puma (3.12.6)
     qtbindings (4.8.6.5)
     rack (2.0.5)
     rake (12.3.1)
